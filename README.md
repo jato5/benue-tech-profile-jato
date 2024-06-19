@@ -55,5 +55,59 @@
 
 </section>
 
+
+<!-------------------This is tech-info section--------------------->
+
+    <a href="my-profil.html">Visit my profile</a>
+    <section>
+        <h2>BENUE TECH SKILLS LEARNING OVEERVIEW FOR THE FIRST TWO WEEKS</h2>
+    
+        <p>
+           Jato Caleb is a lover of web development and coding in general. He's currently advancing in the industry with Benue Tech Skills BTS program.  
+            During the first weeks, I learn about Frontend, the role of a Frontend developer, areas of specialization, skills requirement amoung others. Also a brief history html and css were introduced.
+            </p>
+        <br><br>
+    
+        <p>The week 2<sup>nd</sup> of the learning was dedecated to learning some indeep html codes. HTML itself is a languge for writing the structure of a web document.Among the various lesson in this week are listed below:
+        </p>
+        <h3>Experienced</h3>
+        <ul>
+            <li>html tags</li>
+            <li>tables</li>
+            <li>forms</li>
+            <li>inline styling</li>
+            <li>Adding images</li>
+            <li>block elements</li>
+            <li>linking web pages</li>
+            <li>html inline elements such as br or span</li>
+            <li>etc</li>
+        </ul>
+
+        <!---------------------------CSS Section----------------------------->
+
+
+        
+.profile-image{
+    width: 200px;
+    border-radius: 12px;
+}
+
+.profile-list{
+    list-style: none;
+}
+
+.list-experienced{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.profile-name{
+    text-align: center;
+    background-color: rgb(83, 35, 35);
+    color: white;
+}
 </body>
 </html>
